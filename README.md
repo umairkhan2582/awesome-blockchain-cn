@@ -230,6 +230,7 @@
 - [MakerDao](https://makerdao.com/) MakerDao 做市Dai代币 [源码](https://github.com/makerdao)
 - [Wrapped BTC](https://wbtc.network) BTC锚定资产 [源码](https://github.com/WrappedBTC/bitcoin-token-smart-contracts)
 - [USDT](https://tether.to/) USDT稳定币
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
 
 ### Game 游戏
 
